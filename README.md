@@ -11,7 +11,7 @@ Hello, I'm Vinayak Navghane
   <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 
   <span style="margin-left: 10px;">  </span>
   <a href="https://twitter.com/VinayakN_">
-    <img margin-left: 10px align="center" src="https://img.shields.io/twitter/url.svg?url=https%3A%2F%2Ftwitter.com%2Fcloudposse" alt="Twitter Badge width="21px" "/>
+    <img margin-left:10px src="https://img.shields.io/twitter/url.svg?url=https%3A%2F%2Ftwitter.com%2Fcloudposse" alt="Twitter Badge width="21px" "/>
   </a>
 </div>
 
